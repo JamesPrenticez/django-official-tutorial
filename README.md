@@ -1,4 +1,5 @@
-https://docs.djangoproject.com/en/4.2/intro/tutorial01/
+(Tutorial)[https://docs.djangoproject.com/en/4.2/intro/tutorial01/]
+(Design Philosophies)[https://docs.djangoproject.com/en/4.2/misc/design-philosophies/#dry]
 
 python -m django --version
 
@@ -17,3 +18,4 @@ python manage.py startapp polls
 -----------------------------------------
 py manage.py runserver 5000
 -----------------------------------------
+

@@ -1,8 +1,8 @@
 1. Writing your first Django app, part 1 [https://docs.djangoproject.com/en/4.2/intro/tutorial01/]
   - [x] Creating a project
   - [x] Creating the Polls app
-2. Writing your first Django app, part 2
-  - [] Database setup
+2. Writing your first Django app, part 2 [https://docs.djangoproject.com/en/4.2/intro/tutorial02/]
+  - [x] Database setup
   - [] Creating models
   - [] Activating models
   - [] Playing with the API
